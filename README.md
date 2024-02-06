@@ -14,7 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-<img src="/design/desktop-design.jpg">
+<img src="/design/destkop-design.jpg">
 <img src="/design/mobile-design.jpg">
 
 ### The challenge
