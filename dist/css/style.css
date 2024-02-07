@@ -108,8 +108,9 @@ main article {
 }
 main article strong {
   color: hsl(75, 94%, 57%);
+  font-size: 0.875rem;
 }
-main article p {
+main article small {
   margin-top: 0.9375rem;
   margin-bottom: 0.625rem;
 }

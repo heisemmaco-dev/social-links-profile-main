@@ -48,9 +48,10 @@ main {
 
     strong {
       color: $Green;
+      font-size: rem(14);
     }
 
-    p {
+    small {
       margin-top: rem(15);
       margin-bottom: rem(10);
     }
